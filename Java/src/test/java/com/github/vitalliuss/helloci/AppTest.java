@@ -16,7 +16,7 @@ public class AppTest {
 		assertTrue(true);
 	}
 
-	@Test
+	@Test // commit
 	public void testShouldBeFailed() {
 		assertTrue(false);
 	}
